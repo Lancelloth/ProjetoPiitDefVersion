@@ -1,0 +1,166 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.5;
+    position: relative
+}
+
+html,
+body{
+
+    height: 100%;
+}
+
+header {
+    background-image: url(../Imagens/voo_phantom3_Campus_Quinta_Aut/DJI_0309.JPG);
+	background-size: cover;
+	background-position: top center;
+	height: 100%;
+}
+
+.drone4all-banner{
+
+    color: #FFF;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    width: 80%;
+    border-radius: 8px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    transition: .3;
+}
+
+@media(min-width: 768){
+    #paineis-sobre{
+        margin-top: 0;
+    }
+}
+
+@media(min-width: 992px) {
+	.drone4all-banner {
+		left: 0;
+		transform: translate(120%, -80%);
+		width: 30%;
+	}
+
+	.drone4all-bannerWrapper {
+		position: relative;
+		height: 100%;
+	}
+}
+
+#paineis-sobre{
+    margin-top: 10px;
+}
+
+.jumbo{
+    margin-top: 10px;
+}
+
+.icones-redes-sociais li {
+	display: inline-block;
+}
+
+.icones-redes-sociais a {
+	width: 40px;
+	height: 40px;
+	display: block;
+	text-indent: -99999px;
+}
+
+ul.icones-redes-sociais{
+    margin-right: 40px; 
+}
+
+.github {
+	background-image: url(../Imagens/github.png);
+}
+
+.twitter {
+	background-image: url(../Imagens/twitter.png);
+}
+
+.linkedin {
+	background-image: url(../Imagens/linkedin.png);
+}
+
+address {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #FFF;
+    padding: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.footer-copyright {
+    height: auto;
+    position: relative;
+}
+
+.fadeOut {
+	opacity: 0;
+	transition: 0.5s;
+}
+
+.modal-header, h4, .close {
+    background-color: #5cb85c;
+    color:white !important;
+    text-align: center;
+    font-size: 30px;
+}
+
+.modal-footer {
+    background-color: #f9f9f9;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    height: "345";
+}
+
+.dropdown{
+    padding-bottom: 10px;
+}
+
+figure img{
+    border-radius: 4px;
+}
+
+h5{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: right;
+}
+
+.carousel-control{
+    position: relative;
+    opacity: 1;
+}
+
+#busca{
+    margin-top: 10px
+}
+
+.logo{
+    float: left;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    color: #ededed;
+}
+
+.logo > img{
+    width: 30px;
+    height: 30px;
+}
+
+#page{
+    margin-left: 24.5%;
+}

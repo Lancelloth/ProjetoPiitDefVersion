@@ -1,0 +1,30 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2F0E1213-543D-482C-96E2-AE7F5918AAED/f:Program.cs" caret="160" fromTop="11" />
+      <File id="D82BA709-6E4C-485A-915A-3670B1258406/f:DelegateProcessingStep.cs" caret="0" fromTop="0" />
+      <File id="D82BA709-6E4C-485A-915A-3670B1258406/f:FluTePrototype.cs" caret="0" fromTop="0" />
+      <File id="D82BA709-6E4C-485A-915A-3670B1258406/f:IBindInputConfiguration.cs" caret="0" fromTop="0" />
+      <File id="D82BA709-6E4C-485A-915A-3670B1258406/f:StringExtensions.cs" caret="342" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

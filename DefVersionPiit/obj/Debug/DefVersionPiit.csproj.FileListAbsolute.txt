@@ -1,0 +1,290 @@
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\ApplicationInsights.config
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\csc.exe
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Collections.Immutable.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\vbc.exe
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\VBCSCompiler.exe
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\VBCSCompiler.exe.config
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\DefVersionPiit.dll.config
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\DefVersionPiit.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\DefVersionPiit.pdb
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.AI.Web.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.AI.WindowsServer.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.ApplicationInsights.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.Web.Infrastructure.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Web.Helpers.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Web.Mvc.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Web.Razor.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Web.Webpages.Deployment.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Web.Webpages.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Web.Webpages.Razor.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.AI.Web.xml
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.AI.WindowsServer.xml
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.ApplicationInsights.xml
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Web.Razor.xml
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Web.Webpages.xml
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Web.Webpages.Deployment.xml
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Web.Webpages.Razor.xml
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Web.Helpers.xml
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Web.Mvc.xml
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\obj\Debug\DefVersionPiit.dll
+c:\users\batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\obj\Debug\DefVersionPiit.pdb
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\csc.exe.config
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\csc.rsp
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\csi.exe
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\csi.exe.config
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\csi.rsp
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.AppContext.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Console.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.IO.Compression.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Security.Claims.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.ValueTuple.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\vbc.exe.config
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\roslyn\vbc.rsp
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Dapper.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\FluTeLib.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Iesi.Collections.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Npgsql.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Dapper.xml
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\FluTeLib.xml
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Iesi.Collections.xml
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\Npgsql.xml
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Batman\documents\visual studio 2015\Projects\DefVersionPiit\DefVersionPiit\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\ApplicationInsights.config
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\csc.exe
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\csc.exe.config
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\csc.rsp
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\csi.exe
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\csi.exe.config
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\csi.rsp
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.AppContext.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Console.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.IO.Compression.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.Claims.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.ValueTuple.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\vbc.exe
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\vbc.exe.config
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\vbc.rsp
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\VBCSCompiler.exe
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\DefVersionPiit.dll.config
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\DefVersionPiit.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\DefVersionPiit.pdb
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Dapper.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\FluTeLib.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Iesi.Collections.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.Web.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Npgsql.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Helpers.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Mvc.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Razor.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Webpages.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Webpages.Razor.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Dapper.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\FluTeLib.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Iesi.Collections.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.Web.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Npgsql.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Razor.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Webpages.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Webpages.Razor.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Helpers.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Mvc.xml
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\obj\Debug\DefVersionPiit.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\obj\Debug\DefVersionPiit.pdb
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\ApplicationInsights.config
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\csc.exe
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\csc.exe.config
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\csc.rsp
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\csi.exe
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\csi.exe.config
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\csi.rsp
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.AppContext.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Console.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\vbc.exe
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\vbc.exe.config
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\vbc.rsp
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\DefVersionPiit.dll.config
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\DefVersionPiit.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\DefVersionPiit.pdb
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Dapper.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\FluTeLib.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Iesi.Collections.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.Web.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Npgsql.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Helpers.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Mvc.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Razor.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Webpages.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Dapper.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\FluTeLib.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Iesi.Collections.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.Web.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\Npgsql.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Razor.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Webpages.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Helpers.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\bin\System.Web.Mvc.xml
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\obj\Debug\DefVersionPiit.csprojResolveAssemblyReference.cache
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\obj\Debug\DefVersionPiit.dll
+C:\Users\Pedro.DESKTOP-6BK285H\Source\Repos\ProjetoPiit\DefVersionPiit\obj\Debug\DefVersionPiit.pdb
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\MvcFileUploader.dll
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\bin\MvcFileUploader.pdb
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\obj\Debug\DefVersionPiit.csprojResolveAssemblyReference.cache
+C:\Users\Batman\Source\Repos\ProjetoPiit\DefVersionPiit\obj\Debug\DefVersionPiit.csproj.CoreCompileInputs.cache

@@ -1,0 +1,67 @@
+﻿@model DefVersionPiit.Models.Imagem
+
+@{
+    Layout = "~/Views/Shared/_Home.cshtml";
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>File Upload MVC</title>
+    <link href="~/Content/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="~/Content/jquery.fileupload.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.9.1.min.js"></script>
+    <script src="~/Scripts/jquery.ui.widget.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery.fileupload.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Generic page styles -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- blueimp Gallery styles -->
+    <link rel="stylesheet" href="//blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
+    <!-- CSS to style the file input field as button and adjust the Bootstrap progress bars -->
+    <link rel="stylesheet" href="css/jquery.fileupload.css">
+    <link rel="stylesheet" href="css/jquery.fileupload-ui.css">
+    <!-- CSS adjustments for browsers with JavaScript disabled -->
+ </head>
+    <body>
+        
+        @{
+            ViewBag.Title = "www.compilemode.com";
+        }
+
+        @using (Html.BeginForm("UploadFile", "FileUpload", FormMethod.Post, new { enctype = "multipart/form-data"}))
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.files, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(model => model.files, "", new { @type = "file", @multiple = "multiple" })
+                        @Html.ValidationMessageFor(model => model.files, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Upload" class="btn btn-primary" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10 text-success">
+                        @ViewBag.UploadStatus
+                    </div>
+                </div>
+
+            </div>
+        }
+        <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+        <script src="~/Scripts/jquery.validate.min.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>  
+    </body>
+</html>
+<h2>UploadPage</h2>
+

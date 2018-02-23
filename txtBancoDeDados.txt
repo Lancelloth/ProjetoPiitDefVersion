@@ -1,0 +1,82 @@
+nome do banco: piitdb
+usuario: postgres
+senha:piit2017
+
+
+-- Table: endereco
+
+-- DROP TABLE endereco;
+
+CREATE TABLE endereco
+(
+  id_endereco serial NOT NULL,
+  cep character varying(12),
+  rua character varying(50),
+  numero integer,
+  bairro character varying(30),
+  uf character varying(3),
+  "município" character varying(20),
+  CONSTRAINT pk_endereco PRIMARY KEY (id_endereco)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE endereco
+  OWNER TO postgres;
+
+
+-- Table: usuario
+
+-- DROP TABLE usuario;
+
+CREATE TABLE usuario
+(
+  id_usuario serial NOT NULL,
+  login character varying(100),
+  senha character varying(200),
+  ultimo_login date,
+  numero_registro character varying(100), -- Campo para colocar o número da carteira de Vôo (permissão)
+  cpf character varying(15),
+  nome character varying(200),
+  data_nascimento date,
+  email character varying(100),
+  observacoes character varying(200),
+  telemovel character varying(15),
+  telefone character varying(15),
+  id_endereco integer,
+  CONSTRAINT pk_id_usuario PRIMARY KEY (id_usuario),
+  CONSTRAINT fk_endereco FOREIGN KEY (id_endereco)
+      REFERENCES endereco (id_endereco) MATCH SIMPLE
+      ON UPDATE NO ACTION ON DELETE SET NULL
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE usuario
+  OWNER TO postgres;
+COMMENT ON COLUMN usuario.numero_registro IS 'Campo para colocar o número da carteira de Vôo (permissão)';
+
+
+-- Table: imagem
+
+-- DROP TABLE imagem;
+
+CREATE TABLE imagem
+(
+  id_imagem serial NOT NULL,
+  nome_img_banco character varying(50),
+  descricao character varying(200),
+  longitude character varying(30),
+  latitude character varying(20),
+  id_usuario integer,
+  pais character varying(50),
+  uf character varying(10),
+  municipio character varying(100),
+  CONSTRAINT pk_id_imagem PRIMARY KEY (id_imagem)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE imagem
+  OWNER TO postgres;
+

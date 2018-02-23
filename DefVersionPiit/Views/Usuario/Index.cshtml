@@ -1,0 +1,53 @@
+﻿@model IEnumerable<DefVersionPiit.Models.Usuario>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Scripts/bootstrap.js" rel="stylesheet">
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Adicionar Usuario", "AddUsuario")
+        @Html.ActionLink("Atualizar Usuario", "AttUsuario")
+        @Html.ActionLink("Deletar Usuario", "DelUsuario")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Login)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Senha)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Login)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Senha)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.IdUsuario})
+                    @Html.ActionLink("Deletar", "Delete", new { id = item.IdUsuario })
+                </td>
+            </tr>
+        }
+    </table>
+    <p> ---------------------------------------------------------------------------------- </p>
+    <div>
+        <b>Consegui a primeira parte</b>
+        @DateTime.Now.TimeOfDay
+    </div>
+</body>
+</html>
